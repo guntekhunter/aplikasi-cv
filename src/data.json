@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "produk": "wallpanel",
+    "harga1": 1000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 1,
+    "lebar": 2,
+    "tebal": 3
+  },
+  {
+    "id": 2,
+    "produk": "plafon",
+    "harga1": 1000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 1,
+    "lebar": 2,
+    "tebal": 3
+  },
+  {
+    "id": 3,
+    "produk": "wall board",
+    "harga1": 1000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 1,
+    "lebar": 2,
+    "tebal": 3
+  },
+  {
+    "id": 4,
+    "produk": "wall board",
+    "harga1": 1000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 1,
+    "lebar": 2,
+    "tebal": 3
+  }
+]
