@@ -1,46 +1,200 @@
 [
   {
     "id": 1,
-    "produk": "wallpanel",
-    "harga1": 1000,
+    "produk": "moulding polos",
+    "harga1": 45000,
     "harga2": 2000,
     "harga3": 3000,
     "harga4": 4000,
-    "panjang": 1,
-    "lebar": 2,
-    "tebal": 3
+    "panjang": 290,
+    "lebar": 2.5,
+    "tebal": 0
   },
   {
     "id": 2,
-    "produk": "plafon",
-    "harga1": 1000,
+    "produk": "moulding polos",
+    "harga1": 60000,
     "harga2": 2000,
     "harga3": 3000,
     "harga4": 4000,
-    "panjang": 1,
-    "lebar": 2,
-    "tebal": 3
+    "panjang": 290,
+    "lebar": 4,
+    "tebal": 0
   },
   {
     "id": 3,
-    "produk": "wall board",
-    "harga1": 1000,
+    "produk": "moulding polos",
+    "harga1": 75000,
     "harga2": 2000,
     "harga3": 3000,
     "harga4": 4000,
-    "panjang": 1,
-    "lebar": 2,
-    "tebal": 3
+    "panjang": 290,
+    "lebar": 6,
+    "tebal": 0
   },
   {
     "id": 4,
+    "produk": "moulding polos",
+    "harga1": 100000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 8,
+    "tebal": 0
+  },
+  {
+    "id": 5,
+    "produk": "moulding gold",
+    "harga1": 65000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 4,
+    "lebar": 0,
+    "tebal": 0.16
+  },
+  {
+    "id": 6,
+    "produk": "moulding gold",
+    "harga1": 75000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 4,
+    "lebar": 0,
+    "tebal": 0.17
+  },
+  {
+    "id": 7,
+    "produk": "moulding gold",
+    "harga1": 120000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 6,
+    "lebar": 0,
+    "tebal": 0.23
+  },
+  {
+    "id": 8,
+    "produk": "moulding gold",
+    "harga1": 140000,
+    "harga2": 2000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 6,
+    "lebar": 0,
+    "tebal": 0.2
+  },
+  {
+    "id": 9,
+    "produk": "wall panel",
+    "harga1": 13500,
+    "harga2": 13000,
+    "harga3": 12000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 16,
+    "tebal": 2
+  },
+  {
+    "id": 10,
     "produk": "wall board",
+    "harga1": 290000,
+    "harga2": 270000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 60,
+    "tebal": 0.85
+  },
+  {
+    "id": 11,
+    "produk": "wall board",
+    "harga1": 190000,
+    "harga2": 170000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 40,
+    "tebal": 0.85
+  },
+  {
+    "id": 12,
+    "produk": "sheet board",
+    "harga1": 750000,
+    "harga2": 700000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 122,
+    "tebal": 0.5
+  },
+  {
+    "id": 13,
+    "produk": "vinyl",
     "harga1": 1000,
     "harga2": 2000,
     "harga3": 3000,
     "harga4": 4000,
-    "panjang": 1,
-    "lebar": 2,
-    "tebal": 3
+    "panjang": 91.88,
+    "lebar": 15,
+    "tebal": 0.2
+  },
+  {
+    "id": 14,
+    "produk": "spc",
+    "harga1": 570000,
+    "harga2": 550000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 122,
+    "lebar": 18,
+    "tebal": 0.5
+  },
+  {
+    "id": 15,
+    "produk": "kisi-kisi",
+    "harga1": 150000,
+    "harga2": 135000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 5,
+    "tebal": 5
+  },
+  {
+    "id": 15,
+    "produk": "kisi-kisi",
+    "harga1": 150000,
+    "harga2": 135000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 290,
+    "lebar": 10,
+    "tebal": 5
+  },
+  {
+    "id": 16,
+    "produk": "lis plint",
+    "harga1": 65000,
+    "harga2": 57000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 240,
+    "lebar": 8,
+    "tebal": 0
+  },
+  {
+    "id": 17,
+    "produk": "lis plint",
+    "harga1": 75000,
+    "harga2": 65000,
+    "harga3": 3000,
+    "harga4": 4000,
+    "panjang": 240,
+    "lebar": 10,
+    "tebal": 0
   }
 ]
